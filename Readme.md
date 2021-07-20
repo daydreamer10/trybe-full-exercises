@@ -1,5 +1,6 @@
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Alex Costa] (https://www.linkedin.com/in/alexcosta10/)_ enquanto estudava na [Trybe] (https://www.betrybe.com/) :rocket:
-O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+<div style="text-align: justify">Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Alex Costa] (https://www.linkedin.com/in/alexcosta10/)_ enquanto estudava na [Trybe] (https://www.betrybe.com/) :rocket: </div>\
+
+<div style="text-align: justify">O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</div>\
 
 
 ## Introdução - Desenvolvimento Web :rocket:
@@ -17,7 +18,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda i
 - [x] 2-2: _Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: Introdução - HTML & CSS :heavy_check_mark:
+##### Bloco 3: Introdução - HTML & CSS 
 
 - [ ] 3-1: _HTML & CSS - Estruturas de página_
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -25,7 +26,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda i
 - [ ] 3-4: _HTML Semântico_
 - [ ] 3-5: _Projeto - HTML & CSS_
 
-##### Bloco 4: Introdução - Javascript & Lógica de Programação :heavy_check_mark:
+##### Bloco 4: Introdução - Javascript & Lógica de Programação 
 
 - [ ] 4-1: _Javascript - Introdução_
 - [ ] 4-1: _Javascript - Primeiros passos_
@@ -34,7 +35,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda i
 - [ ] 4-4: _Javascript - Objetos e funções_
 - [ ] 4-5: _Projeto - Playground Functions_
 
-##### Bloco 5: Javascript: DOM, Eventos e Web Storage :heavy_check_mark:
+##### Bloco 5: Javascript: DOM, Eventos e Web Storage 
 
 - [ ] 5-1: _Javascript - DOM e seletores_
 - [ ] 5-2: _Javascript - Trabalhando com elementos_
@@ -43,7 +44,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda i
 - [ ] 5-5: _Projeto - Arte com Pixels_
 - [ ] 5-6: _Projeto - Lista de tarefas_
 
-##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
+##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo 
 
 - [ ] 6.1: _HTML & CSS - Forms_
 - [ ] 6.2: _Bibliotecas Javascript e Framewords CSS_
@@ -52,7 +53,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda i
 - [ ] 6.5: _CSS Responsivo - Mobile First_
 - [ ] 6.6: _Projeto - Página inicial do Facebook_
 
-##### Bloco 7: Introdução à Javascript ES6 e Testes Unitários :heavy_check_mark:
+##### Bloco 7: Introdução à Javascript ES6 e Testes Unitários 
 
 - [ ] 7.1: _Javascript ES6 - Variáveis & Template Literals_
 - [ ] 7.2: _Javascript ES6 - Objects_
