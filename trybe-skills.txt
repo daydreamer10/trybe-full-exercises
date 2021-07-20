@@ -2,5 +2,8 @@
 - PYTHON
 - JAVASCRIPT
 - CSS
-- REACT- C
+- REACT
+- RUBY
+- REACT
+- C
 - C#
