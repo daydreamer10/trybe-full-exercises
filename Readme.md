@@ -1,4 +1,4 @@
-<div style="text-align: justify">Este repositório contém todas as atividades de aprendizagem desenvolvidas por **Alex Costa** enquanto estudava na **[Trybe]** *(https://www.betrybe.com/)* :rocket: </div><br/>
+<div style="text-align: justify">Este repositório contém todas as atividades de aprendizagem desenvolvidas por Alex Costa enquanto estudava na [Trybe] (https://www.betrybe.com/)* :rocket: </div><br/>
 
 <div style="text-align: justify">O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</div><br/>
 
