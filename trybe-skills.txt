@@ -1,5 +1,0 @@
-- JAVA
-- PYTHON
-- JAVASCRIPT
-- CSS
-- REACT
