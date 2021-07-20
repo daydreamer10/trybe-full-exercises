@@ -1,6 +1,6 @@
-<div style="text-align: justify">Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Alex Costa] (https://www.linkedin.com/in/alexcosta10/)_ enquanto estudava na [Trybe] (https://www.betrybe.com/) :rocket: </div>\
+<div style="text-align: justify">Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Alex Costa] (https://www.linkedin.com/in/alexcosta10/)_ enquanto estudava na [Trybe] (https://www.betrybe.com/) :rocket: </div><br/>
 
-<div style="text-align: justify">O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</div>\
+<div style="text-align: justify">O programa conta com mais de 1500 horas de aulas presenciais e on line. Aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</div><br/>
 
 
 ## Introdução - Desenvolvimento Web :rocket:
@@ -60,7 +60,7 @@
 - [ ] 7.3: _Testes Unitários em Javascript_
 - [ ] 7.4: _Projeto - Javascript Testes Unitários_
 
-##### Bloco 8: Higher Order Functions do javascript ES6 :round_pushpin:
+##### Bloco 8: Higher Order Functions do javascript ES6
 
 - [ ] 8.1: _Javascript ES6 - forEach, find, some, every e sort_
 - [ ] 8.2: _Javascript ES6 - map e filter_
