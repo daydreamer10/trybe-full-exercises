@@ -1,4 +1,4 @@
-#**O objetivo deste exercício é por em prática os conhecimentos inicias sobre CSS.**#
+# **O objetivo deste exercício é por em prática os conhecimentos inicias sobre CSS.** 🚀
 
 **Exercício:**
 
