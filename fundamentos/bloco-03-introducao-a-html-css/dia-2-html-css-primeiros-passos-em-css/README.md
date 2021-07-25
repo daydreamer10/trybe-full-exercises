@@ -1,6 +1,6 @@
 # **O objetivo deste exercício é por em prática os conhecimentos inicias sobre CSS.** 🚀
 
-**Exercício:**
+## **Exercício:** :cowboy_hat_face:	
 
 1. Modifique o família do h1 para sans-serif.
 2. Deixe o parágrafo com o font-weight 600.
