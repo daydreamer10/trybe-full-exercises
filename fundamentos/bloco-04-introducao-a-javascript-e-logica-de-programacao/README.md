@@ -1,6 +1,6 @@
 # Bloco 4 #
 
-## O que vamos aprender? ##  :cowboy_hat_face:	
+## O que vamos aprender?   :cowboy_hat_face:	
 ## Aqui você vai aprender sobre a linguagem de programação JavaScript . 🚀🚀🚀 ##
 
  ### Para isso, dividimos o conteúdo em cinco partes: ### 
