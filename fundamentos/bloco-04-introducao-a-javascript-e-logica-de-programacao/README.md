@@ -2,7 +2,8 @@
 
 ## O que vamos aprender? ##
 ## Aqui você vai aprender sobre a linguagem de programação JavaScript . 🚀🚀🚀 ##
-Para isso, dividimos o conteúdo em cinco partes:
+
+ #### Para isso, dividimos o conteúdo em cinco partes: ####
 Primeiro você aprenderá sobre variáveis , constantes , tipos primitivos , tipagem dinâmica , operadores aritméticos , operadores de atribuição , operadores lógicos , if/else e switch/case :
 JavaScript - Primeiros passos
 Essa parte apresenta arrays e for :
